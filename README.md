@@ -24,7 +24,11 @@ Software Engineer with 4+ years of professional experience building backend syst
 **[Doctor Appointment Booking Platform](https://github.com/amr-ismael/doctor_appointments_management)** — ASP.NET Core backend with JWT auth, role-based access, EF Core, and SendGrid integration. Built during the Backend Track internship at Algoriza.
 
 ---
+## Currently Building
 
+- **DatingApp, extended** — building out the member browsing and messaging features left as stubs when I first followed the course, turning it from a guided tutorial into a project of my own.
+- **A fintech app** — a self-directed project to go deeper on Angular (state management, reactive forms) and on backend financial data handling (precision, auditability) beyond what my day-to-day work has required so far.
+---
 ## Tech Stack
 
 | Category | Technologies |
