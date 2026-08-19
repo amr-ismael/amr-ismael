@@ -46,4 +46,4 @@ Coursework from my Applied AI Master's — time-series forecasting, predictive m
 
 - Email: amr.ismail@stud.th-deg.de
 - LinkedIn: [linkedin.com/in/amrismael912](https://www.linkedin.com/in/amrismael912)
-- Location: Munich, Germany
+- Location: Regensburg, Germany
